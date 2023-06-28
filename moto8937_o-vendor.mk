@@ -10,6 +10,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/moto8937_o/proprietary/vendor/firmware/wlan/prima/aljeter_WCNSS_qcom_wlan_nv.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/wlan/prima/aljeter_WCNSS_qcom_wlan_nv.bin \
     vendor/motorola/moto8937_o/proprietary/vendor/firmware/wlan/prima/hannah_WCNSS_qcom_wlan_nv.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/wlan/prima/hannah_WCNSS_qcom_wlan_nv.bin \
     vendor/motorola/moto8937_o/proprietary/vendor/firmware/wlan/prima/jeter_WCNSS_qcom_wlan_nv.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/wlan/prima/jeter_WCNSS_qcom_wlan_nv.bin \
+    vendor/motorola/moto8937_o/proprietary/vendor/firmware/wlan/prima/nora_WCNSS_qcom_wlan_nv.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/wlan/prima/nora_WCNSS_qcom_wlan_nv.bin \
     vendor/motorola/moto8937_o/proprietary/vendor/firmware/FT8006U_Pramboot.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/FT8006U_Pramboot.bin \
     vendor/motorola/moto8937_o/proprietary/vendor/firmware/focaltech-ofilm-ft8006u-04-0001-hannah.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/focaltech-ofilm-ft8006u-04-0001-hannah.bin \
     vendor/motorola/moto8937_o/proprietary/vendor/firmware/focaltech-ofilm-ft8006u-05-0001-hannah.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/focaltech-ofilm-ft8006u-05-0001-hannah.bin \
