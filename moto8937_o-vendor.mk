@@ -6,6 +6,27 @@ PRODUCT_SOONG_NAMESPACES += \
     vendor/motorola/moto8937_o
 
 PRODUCT_COPY_FILES += \
+    vendor/motorola/moto8937_o/proprietary/vendor/etc/acdbdata/ahannah/Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/ahannah/Bluetooth_cal.acdb \
+    vendor/motorola/moto8937_o/proprietary/vendor/etc/acdbdata/ahannah/General_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/ahannah/General_cal.acdb \
+    vendor/motorola/moto8937_o/proprietary/vendor/etc/acdbdata/ahannah/Global_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/ahannah/Global_cal.acdb \
+    vendor/motorola/moto8937_o/proprietary/vendor/etc/acdbdata/ahannah/Handset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/ahannah/Handset_cal.acdb \
+    vendor/motorola/moto8937_o/proprietary/vendor/etc/acdbdata/ahannah/Hdmi_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/ahannah/Hdmi_cal.acdb \
+    vendor/motorola/moto8937_o/proprietary/vendor/etc/acdbdata/ahannah/Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/ahannah/Headset_cal.acdb \
+    vendor/motorola/moto8937_o/proprietary/vendor/etc/acdbdata/ahannah/Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/ahannah/Speaker_cal.acdb \
+    vendor/motorola/moto8937_o/proprietary/vendor/etc/acdbdata/ahannah_bl/Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/ahannah_bl/Bluetooth_cal.acdb \
+    vendor/motorola/moto8937_o/proprietary/vendor/etc/acdbdata/ahannah_bl/General_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/ahannah_bl/General_cal.acdb \
+    vendor/motorola/moto8937_o/proprietary/vendor/etc/acdbdata/ahannah_bl/Global_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/ahannah_bl/Global_cal.acdb \
+    vendor/motorola/moto8937_o/proprietary/vendor/etc/acdbdata/ahannah_bl/Handset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/ahannah_bl/Handset_cal.acdb \
+    vendor/motorola/moto8937_o/proprietary/vendor/etc/acdbdata/ahannah_bl/Hdmi_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/ahannah_bl/Hdmi_cal.acdb \
+    vendor/motorola/moto8937_o/proprietary/vendor/etc/acdbdata/ahannah_bl/Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/ahannah_bl/Headset_cal.acdb \
+    vendor/motorola/moto8937_o/proprietary/vendor/etc/acdbdata/ahannah_bl/Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/ahannah_bl/Speaker_cal.acdb \
+    vendor/motorola/moto8937_o/proprietary/vendor/etc/acdbdata/ahannah_id/Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/ahannah_id/Bluetooth_cal.acdb \
+    vendor/motorola/moto8937_o/proprietary/vendor/etc/acdbdata/ahannah_id/General_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/ahannah_id/General_cal.acdb \
+    vendor/motorola/moto8937_o/proprietary/vendor/etc/acdbdata/ahannah_id/Global_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/ahannah_id/Global_cal.acdb \
+    vendor/motorola/moto8937_o/proprietary/vendor/etc/acdbdata/ahannah_id/Handset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/ahannah_id/Handset_cal.acdb \
+    vendor/motorola/moto8937_o/proprietary/vendor/etc/acdbdata/ahannah_id/Hdmi_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/ahannah_id/Hdmi_cal.acdb \
+    vendor/motorola/moto8937_o/proprietary/vendor/etc/acdbdata/ahannah_id/Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/ahannah_id/Headset_cal.acdb \
+    vendor/motorola/moto8937_o/proprietary/vendor/etc/acdbdata/ahannah_id/Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/ahannah_id/Speaker_cal.acdb \
     vendor/motorola/moto8937_o/proprietary/vendor/firmware/wlan/prima/ahannah_WCNSS_qcom_wlan_nv.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/wlan/prima/ahannah_WCNSS_qcom_wlan_nv.bin \
     vendor/motorola/moto8937_o/proprietary/vendor/firmware/wlan/prima/aljeter_WCNSS_qcom_wlan_nv.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/wlan/prima/aljeter_WCNSS_qcom_wlan_nv.bin \
     vendor/motorola/moto8937_o/proprietary/vendor/firmware/wlan/prima/hannah_WCNSS_qcom_wlan_nv.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/wlan/prima/hannah_WCNSS_qcom_wlan_nv.bin \
